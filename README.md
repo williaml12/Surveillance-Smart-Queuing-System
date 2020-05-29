@@ -59,7 +59,7 @@ Utilize the classroom workspace, or refer to the relevant instructions for your 
 ### Get started with Intel® DevCloud
 
 Intel® DevCloud
-- [Intel® DevCloud](.https://devcloud.intel.com/edge/get_started/devcloud/)
+- [Intel® DevCloud](.https://devcloud.intel.com/edge/get_started/devcloud/.md)
 
 ### Scenario
 
