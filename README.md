@@ -44,7 +44,7 @@ The Scenarios are Manufacturing (factory site), Retail (grocery store), Transpor
 ### Software
 
 *   Intel® Distribution of OpenVINO™ toolkit 2019 R3 release
-*   Intel® DevCloud
+*   Intel® DevCloud 
         
 ## Setup
 
@@ -55,6 +55,11 @@ Utilize the classroom workspace, or refer to the relevant instructions for your 
 - [Linux/Ubuntu](./linux-setup.md)
 - [Mac](./mac-setup.md)
 - [Windows](./windows-setup.md)
+
+### Get started with Intel® DevCloud
+
+Intel® DevCloud
+- [Intel® DevCloud](.https://devcloud.intel.com/edge/get_started/devcloud/)
 
 ### Scenario
 
