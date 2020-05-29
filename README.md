@@ -55,6 +55,7 @@ Utilize the classroom workspace, or refer to the relevant instructions for your 
 - [Linux/Ubuntu](./linux-setup.md)
 - [Mac](./mac-setup.md)
 - [Windows](./windows-setup.md)
+- [Raspbian OS](https://docs.openvinotoolkit.org/2020.1/_docs_install_guides_installing_openvino_raspbian.html)
 
 ### Get started with Intel® DevCloud
 
